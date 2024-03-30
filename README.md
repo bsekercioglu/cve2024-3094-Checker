@@ -10,15 +10,15 @@ Ayrıca, betik liblzma'nın sistemdeki kullanımını ve xz-utils sürümünü k
 2. Kodu klonlayın veya indirin:
    ```bash
    git clone [https://github.com/kullanici/depoyolu.git](https://github.com/bsekercioglu/cve2024-3094-Checker.git)
-
+   ```
 3. İndirdiğiniz dizine gidin
     ```bash
     cd cve2024-3094-Checker
-    
+    ```
 4.Python betiğini çalıştırın.
-    ```bash
+    ```
      python3 ./cve-checker.py
-     
+     ```
 ## Gereksinimler 
 1. Python 3.x
 2. xz-utils
