@@ -16,7 +16,7 @@ Ayrıca, betik liblzma'nın sistemdeki kullanımını ve xz-utils sürümünü k
     cd cve2024-3094-Checker
     
 4.Python betiğini çalıştırın.
-     ```bash
+    ```bash
      python3 ./cve-checker.py
      
 ## Gereksinimler 
