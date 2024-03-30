@@ -18,10 +18,10 @@ Ayrıca, betik liblzma'nın sistemdeki kullanımını ve xz-utils sürümünü k
      ```bash
      python3 ./cve-checker.py
      
-##Gereksinimler
+##Gereksinimler##
 1. Python 3.x
 2. xz-utils
 
-##Lisans
+##Lisans##
 Bu betik MIT lisansı altında lisanslanmıştır. 
 
